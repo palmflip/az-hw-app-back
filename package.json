@@ -1,0 +1,19 @@
+{
+  "name": "@asmy/backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.13.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.1"
+  },
+  "dependencies": {
+    "@godaddy/terminus": "^4.1.0",
+    "express": "^4.16.4"
+  }
+}
